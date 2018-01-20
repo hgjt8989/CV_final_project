@@ -1,0 +1,10 @@
+How many red things?	1
+How many yellow things?	1
+What shape is red thing?	sphere
+What shape is yellow thing?	sphere
+What shape is blue thing?	cylinder
+What color is the sphere left of red thing?	yellow
+What color is thing left of yellow sphere	red
+What shape is thing right of yellow sphere?	cylinder
+What shape is the blue big thing?	cylinder
+Does the big cylinder have the same color with yellow sphere?	no

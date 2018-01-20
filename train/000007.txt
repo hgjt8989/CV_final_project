@@ -1,0 +1,4 @@
+what color is the cylinder in front of the red sphere?	green
+how many objects are cubes?	2
+are there more spheres than cylinders?	no
+how many objects are cylinders?	2 

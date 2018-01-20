@@ -1,0 +1,7 @@
+How many red cylinder?	1
+How many cubes?	2
+What material is the red cylinder?	metal
+How many red things?	2
+How many cylinders?	2
+What shape is the yellow things?	cube
+What color is the cube behind?	yellow

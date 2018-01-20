@@ -1,0 +1,4 @@
+how many objects are cubes?	4
+how many objects are spheres?	0
+how many objects are green cubes?	1
+what size is the green cube?	large

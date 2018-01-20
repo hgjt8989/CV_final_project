@@ -1,0 +1,10 @@
+How many bluethings?	1
+How many yellow things?	1
+How many cubes?	1
+What color is the cylinder right of green cube?	blue
+What shape is the blue thing right of green cube?	cylinder
+What shape is the yellow thing near the red cylinder?	sphere
+What shape is the green thing?	cube
+What shape is the red thing?	cylinder
+What shape is the blue thing?	cylinder
+Does the big cylinder have the same color with big cube?	no

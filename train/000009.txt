@@ -1,0 +1,3 @@
+what color is the cylinder at the right of the black cube?	green
+what color is the cube in front of the green cylinder?	brown
+are there more cylinders than cubes?	no 

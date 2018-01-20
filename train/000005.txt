@@ -1,0 +1,5 @@
+How many objects are spheres?	4
+What color is the large sphere right of the green cube?	red
+What color is the cube in front of the orange sphere?	green
+What color is the cylinder?	brown
+Are there an equal number of spheres and cubes?	no

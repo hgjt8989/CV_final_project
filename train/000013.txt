@@ -1,0 +1,8 @@
+How many cubes?	2
+How many yellow cubes?	1
+what shape is the red thing?	cylinder
+what shape is the green thing?	cube
+What color is the cube in front?	green	
+What color is the cube behind?	yellow
+What material is the red cylinder?	metal
+How many cylinders?	2

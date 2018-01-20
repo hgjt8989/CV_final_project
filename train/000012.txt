@@ -1,0 +1,3 @@
+how many objects are cubes?	2
+how many objects are cylinders?	2
+what color is the cube in front of the green cylinder?	green

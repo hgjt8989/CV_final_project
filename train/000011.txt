@@ -1,0 +1,9 @@
+How many red cylinder?	1
+what shape is the red thing?	cylinder
+What color is the cylinder in left of red thing?	blue
+What color is the cylinder in right of blue thing?	red
+What material is the cylinder in right of blue thing?	metal
+How many yellow things?	2
+How many cubes?	2
+How many red things?	1
+Does the two cubes have the same color?	no

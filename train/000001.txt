@@ -1,0 +1,8 @@
+What shape is the yellow small thing?	sphere
+What shape is the yellow big thing?	cube
+What shape is the cyan thing?	cylinder
+What shape is the red thing?	cylinder
+What shape is the green thing?	cube
+What shape is the blue thing?	cylinder
+What color is the cube right of red cylinder?	green
+What color is the cylinder left of green cube?	blue

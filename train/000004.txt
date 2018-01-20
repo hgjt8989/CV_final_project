@@ -1,0 +1,10 @@
+How many bluethings?	1
+How many yellow things?	1
+How many cubes?	1
+What shape is the red thing?	cylinder
+What material is the red cylinder near the blue cylinder?	metal
+What color is the cube near the blue cylinder?	green
+What shape is the green thing near the blue cylinder?	cube
+How many red things?	1
+How many cylinders?	5
+Does the blue thing have the same shape with red thing?	yes
