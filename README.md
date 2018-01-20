@@ -1,4 +1,4 @@
-# cv
+# computer vision
 Final project of Inferring and Executing Programs for Visual Reasoning 
 
 @inproceedings{johnson2017inferring,
