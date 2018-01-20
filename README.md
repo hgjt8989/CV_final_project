@@ -1,4 +1,4 @@
-# computer vision
+# Computer vision course of MVA 2017
 Final project of Inferring and Executing Programs for Visual Reasoning 
 
 @inproceedings{johnson2017inferring,
