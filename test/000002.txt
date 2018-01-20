@@ -1,0 +1,4 @@
+What color is the cylinder left of the yellow sphere?	yellow
+What color is the object left of the yellow cylinder?	cyan
+How many objects are cylinder?	4
+What color is the cylinder in front of the yellow sphere?	green

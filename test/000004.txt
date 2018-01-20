@@ -1,0 +1,4 @@
+how many cylinders are there?	1
+what color is the cube in front of the red sphere?	yellow
+what color is the sphere right of the yellow cube?	red
+are there more cubes than spheres?	yes

@@ -1,0 +1,9 @@
+How many red things?	1
+How many yellow things?	2
+How many cubes?	2
+What color is the sphere in front?	yellow
+What color is the big cube?	yellow
+What color is the cube near the red cylinder?	green
+What color is the big cube?	yellow
+What material is the red cylinder?	metal
+Does the two yellow things have the same shape?	no

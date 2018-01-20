@@ -1,0 +1,9 @@
+What shape is the red thing?	cylinder
+How many red things?	1
+How many yellow things?	2
+How many cubes?	2
+What shape is the yellow thing near the red cylinder?	sphere
+What shape is the cyan thing in front of the yellow cube?	cylinder
+What color is the cylinder left of the yellow sphere?	red
+What material is the cylinder near the yellow sphere?	metal
+What color is the big cube?	yellow

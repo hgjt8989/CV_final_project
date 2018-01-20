@@ -1,0 +1,4 @@
+how many cylinders are there?	3
+how many cubes are there?	1
+what color is the cylinder right to the yellow cylinder?	green
+what is the material of the large cylinder?	1

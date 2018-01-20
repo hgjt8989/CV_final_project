@@ -1,0 +1,9 @@
+How many cubes?	1
+Does the red thing and the big yellow thing have the same shape?	no
+What color is the sphere near the red cylinder?	yellow
+What color is the cylinder near the yellow cube?	brown	
+What material is the cylinder near the red cylinder?	metal
+What shape is the red thing?	cylinder
+What shape is the big yellow thing?	cube
+How many cubes?	2
+Does the big cylinder have the same color with big cube?	no

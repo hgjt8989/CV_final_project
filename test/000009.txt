@@ -1,0 +1,8 @@
+How many red things?	1
+How many yellow cubes?	1
+How many yellow sphere?	1
+what shape is the red thing?	cylinder
+what shape is the yellow thing near the red cylinder?	sphere
+What color is the big cube?	yellow
+What color is the small cube?	green
+How many cylinders?	5

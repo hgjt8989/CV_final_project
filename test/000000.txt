@@ -1,0 +1,4 @@
+How many objects are spheres?	2
+What color is the small sphere left of the yellow cube?	green
+What shape is the cyan object?	cylinder
+Does the cylinders have the same size?	yes

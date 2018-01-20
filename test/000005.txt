@@ -1,0 +1,3 @@
+what color is the sphere in front of the green cylinder?	red
+what color is the cylinder in front of the yellow cube?	green
+how many cubes are there?	2

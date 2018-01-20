@@ -1,0 +1,5 @@
+What color is the small cylinder right of the cyan cylinder?	green
+What color is the sphere right of the yellow cylinder?	yellow
+How many objects are cylinder?	3
+How many objects are spheres?	2
+How many objects are yellow?	3

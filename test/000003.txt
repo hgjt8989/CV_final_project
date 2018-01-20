@@ -1,0 +1,5 @@
+What color is the sphere left of the yellow cylinder?	brown
+How many objects are spheres?	4
+How many objects are cylinders?	1
+What color is the cylinder left of the yellow sphere?	yellow
+What color is the sphere right of the yellow sphere?	green
